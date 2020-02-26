@@ -14,7 +14,7 @@ function collect(trash);
   
           %                            #
                         *
-  #                                  &            ^
+  #             =                     &            ^
 
                                                         *
               !                +
